@@ -46,6 +46,7 @@ Sou apaixonado por criar aplicações eficientes e otimizadas, explorando o melh
 <a href="https://www.mysql.com/"><img height="35" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://mariadb.org/"><img height="35" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 <a href="https://www.postgresql.org/"><img height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.sqlite.org/"><img height="35" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 
 ## 🎯 Foco
 

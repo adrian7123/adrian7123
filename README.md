@@ -42,9 +42,9 @@ Sou apaixonado por criar aplicações eficientes e otimizadas, explorando o melh
 
 ### **Desktop:**
 
+<a href="https://tauri.app/"><img height="35" src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/"><img height="35" src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 <a href="https://www.electronjs.org/"><img height="35" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white"></a>
-<a href="https://tauri.app/"><img height="35" src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white"></a>
 
 ### **Banco de Dados:**
 

@@ -49,7 +49,7 @@ Sou apaixonado por criar aplicações eficientes e otimizadas, explorando o melh
 
 ## 🎯 Foco
 
-### Sistemas de alta performance, otimização e baixa latência
+### Aplicações robustas e escaláveis, focando na simplicidade e eficiência
 
 ## 🔥 Áreas de Interesse
 

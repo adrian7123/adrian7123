@@ -40,6 +40,12 @@ Sou apaixonado por criar aplicações eficientes e otimizadas, explorando o melh
 <a href="https://flutter.dev/"><img height="35" src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://reactnative.dev/"><img height="35" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
+### **Desktop:**
+
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/winforms/"><img height="35" src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+<a href="https://www.electronjs.org/"><img height="35" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white"></a>
+<a href="https://tauri.app/"><img height="35" src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white"></a>
+
 ### **Banco de Dados:**
 
 <a href="https://www.mongodb.com/"><img height="35" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
